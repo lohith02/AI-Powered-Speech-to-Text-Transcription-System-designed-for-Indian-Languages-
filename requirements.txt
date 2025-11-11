@@ -1,0 +1,3 @@
+flask
+Speech Recognition
+pydub
